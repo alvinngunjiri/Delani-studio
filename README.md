@@ -1,24 +1,48 @@
-# Akan names
-This Repository contains code for my Akan name aplication.
-##### By Alvin Ngunjiri
-## Description
-This is a Personal Project that i have created to 
-              </div>  
-## Setup Instructions
-* git clone https://github.com/alvinngunjiri/Akannaming.git on your terminal.
-* Navigate to the akan names folder.
-* Open the folder in your editor.
-## Technologies Used
+## DELANI STUDIO WEBSITE
+
+### Author:
+* [Alvin Ngunjiri](https://github.com/alvinngunjiri)
+
+
+### Description:
+Delani studio website is a design practice website that offers a full range of services including brand strategy, interaction and visual design and user experience testing.Throughout the project, the designers create and implement visual design.
+
+### Languages used:
 * HTML
+* JavaScript
 * CSS
-* bootsrap
-#BDD
-- Enter your birthday details
- You will input your details by typing or by clicking on the provided calender.
- -Choose your gender either Male or Female field provided since your akan name will be outputed only when you have provided the gender and your valid dates so you need to understand that the gender section is important.
- -The submit button is the part where your input or your details have been fed to the application and then it displays or output your Akan name and the day your were born in case you forget to choose the gender or the correct date aprompt message will appear to inform you to input the correct details.
-## Contribution
-Incase of any contributions, feel free to do so by visiting[this link]https://github.com/alvinngunjiri/Akannaming.git
-### license
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Copyright (c) 2020 *ngunjirii*
+* jQuery-(3.4.1 ) and jQuery lazy(fast, feature-rich, extensible and lightweight delayed content loading plugin for jQuery)
+* GIT and GITHUB
+* [Google fonts](https://fonts.google.com/)
+
+### Setup requirements:
+* Web browser(Chrome, Opera, Firefox web browser)
+* Stable internet connection
+
+### SETUP(installation)
+* git clone https://github.com/alvinngunjiri/Delani-studio.git
+* cd delani-studio
+* Open index.html on any browser
+
+### BEHAVIOR DRIVEN DEVELOPMENT
+#### An Example of how the Delani Website works:
+
+* Once index.html is opened on browser the home page toggle-slides upwards displaying a bouncing mouse.
+
+* Second page is more ample information (about us) with services that delani studio offers.
+
+* Next is undertakes in delani with "What we do" icons when clicked should toggle between the respective description of each icon
+
+* The portfolio page hovers with a white box that appears with the name of the project inside.
+
+* The Email API that tells the user through a pop up that you have received their message and also thank them for contacting you.
+
+
+### Live to Link Delani studio to the Website:
+* [Live Link](https://alvinngunjiri.github.io/Delani-studio/)
+
+
+
+
+
+
