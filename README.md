@@ -11,7 +11,7 @@ Delani studio website is a design practice website that offers a full range of s
 * HTML
 * JavaScript
 * CSS
-* jQuery-(3.4.1 ) and jQuery lazy(fast, feature-rich, extensible and lightweight delayed content loading plugin for jQuery)
+* jQuery-(3.4.1 ) 
 * GIT and GITHUB
 * [Google fonts](https://fonts.google.com/)
 
