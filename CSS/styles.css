@@ -269,9 +269,8 @@ body::-webkit-scrollbar {
     padding: 3px;
     margin: -3px;
     background: orange;
-    box-shadow: 0 0 20px orange);
+    box-shadow: 0 0 20px orange;
   }
-
 
   @media only screen and (min-width: 1000px){
     #portfolio>div>div>p{
