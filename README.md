@@ -5,7 +5,8 @@
 
 
 ### Description:
-Delani studio website is a design practice website that offers a full range of services including brand strategy, interaction and visual design and user experience testing.Throughout the project, the designers create and implement visual design.
+Delani studio website is a design practice website that offers a full range of services including brand strategy, interaction and visual design and user experience testing.
+
 
 ### Languages used:
 * HTML
