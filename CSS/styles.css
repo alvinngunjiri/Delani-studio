@@ -1,5 +1,4 @@
 
-
 body::-webkit-scrollbar {
     width: 10px;
     background-color: yellow;
@@ -273,7 +272,7 @@ body::-webkit-scrollbar {
     box-shadow: 0 0 20px orange);
   }
   
-  
+
   @media only screen and (min-width: 1000px){
     #portfolio>div>div>p{
       font-size: 2em;
