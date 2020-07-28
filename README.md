@@ -22,7 +22,7 @@ Delani studio website is a design practice website that offers a full range of s
 
 ### SETUP(installation)
 * git clone https://github.com/alvinngunjiri/Delani-studio.git
-* cd delani-studio
+* cd Delani
 * Open index.html on any browser
 
 ### BEHAVIOR DRIVEN DEVELOPMENT
