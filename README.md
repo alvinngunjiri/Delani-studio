@@ -11,7 +11,7 @@ Delani studio website is a design practice website that offers a full range of s
 ### Languages used:
 * HTML
 * JavaScript
-* CSS
+* CSS "bootstrap"
 * jQuery-(3.4.1 ) 
 * GIT and GITHUB
 * [Google fonts](https://fonts.google.com/)
