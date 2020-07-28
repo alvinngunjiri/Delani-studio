@@ -18,7 +18,7 @@ Delani studio website is a design practice website that offers a full range of s
 
 ### Setup requirements:
 * Web browser(Chrome, Opera, Firefox web browser)
-* Stable internet connection
+* Internet connection
 
 ### SETUP(installation)
 * git clone https://github.com/alvinngunjiri/Delani-studio.git
